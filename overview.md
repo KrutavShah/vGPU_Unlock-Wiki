@@ -58,6 +58,6 @@ The currently supported vGPU host driver does not natively compile against Linux
 #### Guest
 
 * Red Hat Enterprise Linux (and variants)
-* Debian 20.04 LTS (and variants)
+* Ubuntu 20.04 LTS (and variants)
 * Windows 8.1+ (including Server)
 * Plenty more not listed here.
